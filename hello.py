@@ -1,1 +1,1 @@
-New File added
+print("Hello World")
